@@ -79,7 +79,7 @@
 <distributionManagement>
   <snapshotRepository>
     <id>nexus</id>
-    <url>http://13.233.147.87:8081/nexus/content/repositories/snapshots/</url>
+    <url>ec2-13-233-147-87.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
 
